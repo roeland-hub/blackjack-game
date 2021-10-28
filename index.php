@@ -1,23 +1,12 @@
 <?php
-class User {
-    public $username;
+declare(strict_types=1);
 
-    public function setUsername($name) {
-        $this->username=$name;
-    }
-    public function getUsername(){
-        return $this->username;
-    }
-}
+require 'Suit.php';
+require 'Card.php';
+require 'Deck.php';
+require 'Player.php';
+require 'Blackjack.php';
 
-$user = new User();
-$user->setUsername('rlnd');
-echo $user->getUsername();
 
-$rlnd = new User();
-$rlnd->setUsername('rlnd');
 
-$valentine = new user();
-$valentine->setUsername('Valentine');
-
-echo 'twee gebruikers: '.$rlnd->getUsername(). ' en '.$valentine->getUsername().'.';
+require 'view.php';
