@@ -1,8 +1,2 @@
 # blackjack-game
 Ready to start.
-
-- Objecten definieer je in een class
-- Eigenschappen definieer je als variabelen (properties) bovenaan je class
-- Gedrag/veranderingen/manipulatie van eigenschappen definieer je als functies (methods) in je class
-
-"Object Oriented Programming is programming which is oriented around objects, thus taking advantage of encapsulation, polymorphism, and inheritance to increase code reuse and decrease code maintenance."
