@@ -10,4 +10,6 @@ Ready to start.
 "Object Oriented Programming is programming which is oriented around objects, thus taking advantage of encapsulation, polymorphism, and inheritance to increase code reuse and decrease code maintenance."
 
 A class is a template for objects, and an object is an instance of class.
->>>>>>> 82ea4f81995cbab0c90a8f4a18eae4b3c71a518b
+
+Leared alot but dont feel the eart under my feel.
+keep on going.
